@@ -1,2 +1,3 @@
 * .markdown
 **Bold**
+*italic*
